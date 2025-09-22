@@ -267,8 +267,6 @@ for (i in n) {
 print(model_results)
 
 
-
-
 #From Above obeservation we get best model with following features 
 pred_1<-data[,3]
 pred_2<-data[,5]
