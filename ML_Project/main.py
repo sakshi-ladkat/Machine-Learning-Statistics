@@ -100,7 +100,7 @@ for name, Act in hidden_activation_set:
         x_train,
         y_train,
         epochs=100,         # Reduced for faster testing
-        learning_rate=0.001
+        learning_rate=0.01
     )
 
     loss_curves[name] = losses

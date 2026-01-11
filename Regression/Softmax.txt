@@ -1,0 +1,24 @@
+
+Softmax Regression 
+
+- It is a generalization of classification for n classes 
+if we take n = 2 then it boiled downs to logistic regression 
+
+- Softmax regression function convert z Matrix score to  probabilities against each class 
+and assigns a class with the highest probability to the data point 
+
+- Softmax is used to define multiple boundries for data having multiple classes 
+
+- It also computer coeffircients against all classes 
+
+
+challenges Faced :
+
+- Implementing gradient descend 
+- Implementing Cross Entropy 
+- Python syntax ( last semester worked with R )
+
+Resources Used :
+https://www.geeksforgeeks.org/python/softmax-regression-using-tensorflow/
+https://www.youtube.com/@Deeplearningai
+https://www.youtube.com/watch?v=S6iuhdYsGC8&t=2396s
